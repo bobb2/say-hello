@@ -1,0 +1,16 @@
+{
+    "name": "fagood/say-hello",
+    "description": "My test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fabien chaillou",
+            "email": "fchaillou@sirius-global-services.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "fagood": "src"
+        }
+    }
+}
